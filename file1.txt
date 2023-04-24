@@ -1,4 +1,11 @@
 //git checkout -- filename
 //git reset head filename
+<<<<<<< HEAD
 hello world
 I'm uat
+||||||| c7eb161
+hello world
+=======
+hello world
+I'm dev
+>>>>>>> dev
